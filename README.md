@@ -8,7 +8,7 @@ bằng file JSON.
 1. Kích hoạt môi trường và cài đặt thư viện: `pip install Flask`
 2. Chạy ứng dụng: `python app.py`
 
-## Danh sách API (Test qua Postman)
+## Danh sách API
 
 - **GET** `/products` : Xem danh sách sản phẩm (Tìm kiếm: `/products?name=xyz`)
 - **GET** `/product/<id>` : Xem chi tiết 1 sản phẩm
